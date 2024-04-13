@@ -16,11 +16,11 @@ cd Sara_Hundir_la_flota
 
 3. Ejecuta el juego:
 
-Para jugar ejecuta el main.py
+Para jugar ejecuta el main.py, que viene con un variables.py y un funciones.py
 
 ## Cómo Jugar
 
-1. Inicia el juego ejecutando el script `hundir_la_flota.py`.
+1. Inicia el juego ejecutando el script `main.py`.
 2. Sigue las instrucciones en la consola para colocar tus barcos y para intentar hundir los barcos del oponente.
 3. Disfruta del juego!
 
