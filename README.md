@@ -16,7 +16,7 @@ cd Sara_Hundir_la_flota
 
 3. Ejecuta el juego:
 
-rellenar con los archivos
+Para jugar ejecuta el main.py
 
 ## Cómo Jugar
 
